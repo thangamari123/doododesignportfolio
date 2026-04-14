@@ -1,2 +1,2 @@
-# doododesignportfolio
-doododesign portfolio website
+# doododesign
+doododesign website
